@@ -1,11 +1,5 @@
 # Secure Client-Server Communication with Distributed Double DES (D-DDES)
 
-## Submitted by
-
-- Nilay Vatsal (2024202003)
-- Y. Kalyan Neeraj (2024202013)
-- Udit Kumar Jain (2024202019)
-
 ## Overview
 
 This project implements a secure multi-client-server communication system using the **Distributed Double DES (D-DDES)** cryptographic scheme. It ensures **secure key exchange, encrypted data transmission, message integrity verification**, and **server-side aggregation** of client data.
